@@ -1,7 +1,8 @@
 # Time Series Analysis of Carbon Fluxes in the Tapajós National Forest
 Author: Omer Eyal
 
-**Overview:**\n
+**Overview:**
+
 This project analyzes time series data from the BR-Sa1 measurement site in the Tapajós National Forest, Brazil, as part of the Large-Scale Biosphere-Atmosphere Experiment in Amazonia (LBA). The study focuses on the Net Ecosystem Exchange (NEE) of CO₂, Vapor Pressure Deficit (VPD), and Temperature, using exploratory data analysis, gap-filling techniques, and time series decomposition.
 
 The dataset originates from the FLUXNET network, which integrates regional observations of carbon, water, and energy fluxes using the Eddy Covariance technique.
