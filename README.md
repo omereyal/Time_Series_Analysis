@@ -11,13 +11,13 @@ The dataset originates from the FLUXNET network, which integrates regional obser
 * Perform exploratory analysis on key environmental variables.
 * Identify and handle outliers using the Interquartile Range (IQR) sliding window method.
 * Compare gap-filling techniques:
-* FLUXNET default gap-filling method.
-* Machine Learning approach (Random Forest).
+  * FLUXNET default gap-filling method.
+  * Machine Learning approach (Random Forest).
 * Conduct time series analysis, including:
-* Resampling to monthly averages for trend analysis.
-* Fourier Transform (FFT) for frequency analysis and seasonal decomposition.
-* Comparison between classical and FFT-based seasonal decomposition.
-* Moving average smoothing to remove noise.
-* Autoregressive modeling (ARIMA) for time series prediction.
-* Cross-correlation analysis between VPD, temperature, and NEE.
-* Stationarity testing (Augmented D
+  * Resampling to monthly averages for trend analysis.
+  * Fourier Transform (FFT) for frequency analysis and seasonal decomposition.
+  * Comparison between classical and FFT-based seasonal decomposition.
+  * Moving average smoothing to remove noise.
+  * Autoregressive modeling (ARIMA) for time series prediction.
+  * Cross-correlation analysis between VPD, temperature, and NEE.
+  * Stationarity testing (Augmented Dickey-Fuller test).
